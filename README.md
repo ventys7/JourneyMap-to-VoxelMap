@@ -30,4 +30,4 @@ You can install the required dependency using pip:
   This project is a derivative work based on the foundational logic of the repository by **AoNoAsgard**
   - link: https://github.com/AoNoAsgard/JourneymapToVoxelmap.
   
-All credit for the core idea and the coordinate mapping system goes to the original author.
+All credit for the core idea goes to the original author.
