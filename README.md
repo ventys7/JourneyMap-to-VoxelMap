@@ -8,8 +8,7 @@ This Python script is a utility to convert Minecraft waypoints from the JourneyM
 - Platform: This script has only been tested on macOS. Compatibility with Windows or Linux is not guaranteed but likely.
 - Credits: The logic for this converter was inspired by the JourneymapToVoxelmap repository made by AoNoAsgard: https://github.com/AoNoAsgard/JourneymapToVoxelmap.
 
-🛠 Requirements
-To run this script, you need:
+🛠 Requirements | To run this script, you need:
 - Python 3 installed on your system.
 - The nbtlib library to handle Minecraft's NBT file format.
 You can install the required dependency using pip:
