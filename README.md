@@ -27,3 +27,5 @@ You can install the required dependency using pip:
 
 4. Collect Output
 - Your converted waypoints will be generated in the output/ folder as a file named journey_from_dat.points. You can then move this file into your VoxelMap waypoints directory.
+
+This project is a derivative work based on the original logic by AoNoAsgard. All credit for the core idea goes to them.
