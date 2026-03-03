@@ -28,8 +28,3 @@ You can install the required dependency using pip:
 
 4. Collect Output
 - Your converted waypoints will be generated in the output/ folder as a file named journey_from_dat.points. You can then move this file into your VoxelMap waypoints directory.
-
-📝 Technical Details
-Data Handling: The script loads uncompressed NBT files (gzipped=False).
-Sanitization: Names are automatically cleaned to remove characters like ,, #, and : which are incompatible with the VoxelMap format.
-Output Structure: The generated file includes the necessary headers (subworlds, seeds, etc.) required for VoxelMap to recognize the data.
