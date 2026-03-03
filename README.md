@@ -3,10 +3,10 @@
 This Python script is a utility to convert Minecraft waypoints from the JourneyMap format (.dat) into the VoxelMap format (.points).
 
 ⚠️ Important Disclaimer
-Project Status: This repository is no longer maintained and will not receive any further updates. You are free to fork, modify, and use the code as you wish.
-Known Issues: The waypoint color converter is currently not working as intended. Waypoints may appear with default colors regardless of their original settings.
-Platform: This script has only been tested on macOS. Compatibility with Windows or Linux is not guaranteed but likely.
-Credits: The logic for this converter was inspired by the JourneymapToVoxelmap repository made by AoNoAsgard: https://github.com/AoNoAsgard/JourneymapToVoxelmap.
+- Project Status: This repository is no longer maintained and will not receive any further updates. You are free to fork, modify, and use the code as you wish.
+- Known Issues: The waypoint color converter is currently not working as intended. Waypoints may appear with default colors regardless of their original settings.
+- Platform: This script has only been tested on macOS. Compatibility with Windows or Linux is not guaranteed but likely.
+- Credits: The logic for this converter was inspired by the JourneymapToVoxelmap repository made by AoNoAsgard: https://github.com/AoNoAsgard/JourneymapToVoxelmap.
 
 🛠 Requirements
 To run this script, you need:
