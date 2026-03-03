@@ -6,7 +6,8 @@ This Python script is a utility to convert Minecraft waypoints from the JourneyM
 - Project Status: This repository is no longer maintained and will not receive any further updates. You are free to fork, modify, and use the code as you wish.
 - Known Issues: The waypoint color converter is currently not working as intended. Waypoints may appear with default colors regardless of their original settings.
 - Platform: This script has only been tested on macOS. Compatibility with Windows or Linux is not guaranteed but likely.
-- Credits: The logic for this converter was inspired by the JourneymapToVoxelmap repository made by AoNoAsgard: https://github.com/AoNoAsgard/JourneymapToVoxelmap.
+- This code has been refactored and optimized with the help of AI to ensure better error handling and compatibility with modern Python 3 environments.
+
 
 🛠 Requirements | To run this script, you need:
 - Python 3 installed on your system.
@@ -17,15 +18,15 @@ You can install the required dependency using pip:
 🚀 How to Use
 1. Setup Folders
 - Place the main.py script in a folder. The script will automatically look for or create an input/ and output/ directory.
-
 2. Add your Data
 - Copy your JourneyMap WaypointData.dat file into the input/ folder.
-
 3. Run the Script
 - Open your terminal in the project directory and execute:
-  python3 main.py
-
+  - python3 main.py
 4. Collect Output
 - Your converted waypoints will be generated in the output/ folder as a file named journey_from_dat.points. You can then move this file into your VoxelMap waypoints directory.
 
-This project is a derivative work based on the original logic by AoNoAsgard. All credit for the core idea goes to them.
+🌟 Credits & Acknowledgments
+This project is a derivative work based on the foundational logic of the repository by **AoNoAsgard**, link: https://github.com/AoNoAsgard/JourneymapToVoxelmap.
+  
+All credit for the core idea and the coordinate mapping system goes to the original author.
